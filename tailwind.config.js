@@ -5,13 +5,18 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    colors {
-      'orange': '#e28625',
+    colors: {
+      'orange': '#E28625',
       'green': '#006971',
-      'dark-green': '#004140', 
-      'offwhite: 'rgba(255, 255, 255, 0.75)'
+      'dark-green': '#004140',
+      'off-white': 'rgba(255, 255, 255, .75)',
       'white': '#fff',
-      'offwhitebg': '#f2f2f2',
+      'off-white-bg': '#f2f2f2'
+    },
+    
+    fontFamily: {
+      'shoulders': '"Big Shoulders Display"',
+      'lexend': '"Lexend Deca"'  
     }
   },
   plugins: [],
