@@ -11,7 +11,7 @@ export default {
       'dark-green': '#004140',
       'off-white': 'rgba(255, 255, 255, .75)',
       'white': '#fff',
-      'off-white-bg': '#f2f2f2'
+      'offwhitebg': '#f2f2f2'
     },
     
     fontFamily: {
